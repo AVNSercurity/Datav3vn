@@ -543,26 +543,26 @@ function CheckQuest()
             NameMon = "Snow Demon"
             CFrameQuest = CFrame.new(-1147.6822509765625, 15.758536338806152, -14447.00390625)
         elseif Level == 2450 or Level <= 2474 then
-            Mon = "Isle Outlaw"
+            Mon = "Isle Outlaw [Lv. 2450]"
             MonPos = CFrame.new(-846.84375, 14.232483863830566, -14544.2021484375)
             LQuest = 1
             NQuest = "TikiQuest1"
             NameMon = "Isle Outlaw"
             CFrameQuest = CFrame.new(-16547.708984375, 55.66056823730469, -174.3709716796875)
         elseif Level == 2475 or Level <= 2499 then
-            Mon = "Island Boy"
+            Mon = "Island Boy [Lv. 2475]"
             LQuest = 2
             NQuest = "TikiQuest1"
             NameMon = "Island Boy"
             CFrameQuest = CFrame.new(-16547.708984375, 55.66056823730469, -174.3709716796875)
         elseif Level == 2500 or Level <= 2524 then
-            Mon = "Sun-kissed Warrior"
+            Mon = "Sun-kissed Warrior [Lv. 2500]"
             LQuest = 1
             NQuest = "TikiQuest2"
             NameMon = "Sun-kissed Warrior"
             CFrameQuest = CFrame.new(-16539.6171875, 55.66054153442383, 1051.3416748046875)
         elseif Level > 2524 then
-            Mon = "Isle Champion"
+            Mon = "Isle Champion [Lv. 2525]"
             LQuest = 2
             NQuest = "TikiQuest2"
             NameMon = "Isle Champion"
